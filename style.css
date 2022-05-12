@@ -78,10 +78,7 @@ html{
     background-repeat: no-repeat;
     background-blend-mode:color-dodge;
 }
-.background::before{
-	background-color:black;
-	opacity:0.4;
-}
+
 .firstsection{
     height: 100vh;
 }
