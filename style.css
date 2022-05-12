@@ -72,7 +72,7 @@ html{
 }
 
 .background{
-    background: rgba(0, 0, 0, 0.7) url("../il.gif");
+    background: rgba(0, 0, 0, 0.7) url("il.gif");
     background-size:100%;
     background-position:top;
     background-repeat: no-repeat;
@@ -201,7 +201,7 @@ html{
 
 .contact{
     background-color: #f6f5f4;
-    background:url("../cup.jpg");
+    background:url("cup.jpg");
     background-position:center;
     background-repeat:no-repeat;
     background-size:100%;
@@ -238,7 +238,7 @@ html{
     padding: 30px 0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
-    background:url("../il.gif");
+    background:url("il.gif");
     background-position: bottom;
     background-size: 90%;
     justify-content: center;
